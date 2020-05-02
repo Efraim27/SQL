@@ -1,1 +1,1 @@
-# DVD_Rental_(SQL)
+# SQL
